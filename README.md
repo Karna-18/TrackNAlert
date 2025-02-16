@@ -1,4 +1,4 @@
-# 🚦 Image Processing & ML-Based Traffic Monitoring System *(Ongoing Project)*  
+# 🚦 Image Processing Based Traffic Monitoring System *(Ongoing Project)*  
 
 This project focuses on **real-time vehicle detection, counting, and accident identification** using **Image Processing & Machine Learning**. By analyzing traffic patterns, monitoring lane-wise movement, and detecting potential accidents, the system aims to enhance **road safety and traffic management**. Future improvements include **automated emergency alerts** for accident scenarios.  
 
